@@ -1,0 +1,4 @@
+>install XAMPP server
+>install POSTMAN for testing APIs
+>clone the git repo in xampp\htdocs 
+>enter http://localhost/AP_Proj/index.php/API/login in POSTMAN post request ... follow the given image
